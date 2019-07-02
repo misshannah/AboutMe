@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">AboutMe</string>
+    <string name="name">Hannah Olukoye</string>
+    <string name="yellow_star">Yellow Star</string>
+    <string name="bio">Software Developer who is a drummer too!</string>
+    <string name="what_is_your_nickname">What is your nickname?</string>
+    <string name="done">Done</string>
+</resources>
